@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="#img/pc.gif">
-<img align="center" src=>
+<img align="center" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif">
 
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
