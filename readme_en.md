@@ -4,9 +4,10 @@
 
 <h2 align="center">
     <a href="ldfbg.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=越努力，越幸运;console.log(%22Hello,%20world%22)">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=The harder you work, the luckier you get.;console.log(%22Hello,%20world%22)">
     </a>
 </h2>
+
 <!-- 一个动态图片 -->
 
 <div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/hacker.gif"/></div>
@@ -20,21 +21,21 @@
     <a href="https://space.bilibili.com/476669856"><img src="https://img.shields.io/badge/Bilibili-哔站-green"></a>&emsp;
     <a href="https://blog.csdn.net/qq_51436687"><img src="https://img.shields.io/badge/CSDN-博客-yellow"></a>&emsp;
 </div>
-<div align="center"><a href="https://github.com/codeboy-zuo/codeboy-zuo/blob/main/readme_en.md">English</a></div>
+<div align="center"><a href="https://github.com/codeboy-zuo/codeboy-zuo/blob/main/README.md">简体中文</a></div>
 
 <!-- 关于我 -->
 
-## 关于我
+## About Me
 
-欢迎大家访问我的主页，虽然目前只是一只菜鸟🧐，<del>估计以后也是</del>，huhu~~
+Welcome to my homepage, although only a rookie at the moment!🧐，<del>probably in the future too</del>，huhu~~
 
-但是敲代码真的很快乐，GitHub是一个神奇的地方，大佬云集，让人向往🙌
+But it's a real joy to code, and GitHub is a magical place with bigwigs, make me yearn for🙌
 
-我相信，每一次的学习，即使是别人的成果，最后能够复现变成自己的东西，也是一次成长💪
+I believe that every learning, even if it's someone else's result, and finally being able to reproduce it and make it my own, is a growing experience💪
 
-接下来：好好吃饭🍗 好好睡觉💤 敲敲代码💻 挣点小钱💰 谈谈恋爱💏
+Next up: Eat well 🍗 Sleep well 💤 Code well 💻 Earn some money 💰 Love well 💏
 
-正在学习的技能✨：
+Skills being acquired✨：
 
 ![C](https://img.shields.io/badge/-C-yellow?style=flat-square&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=yellow)
@@ -46,23 +47,16 @@
 
 <!-- Github 数据统计 -->
 
-<table>
-    <tr>
-        <td>
+***
+
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
-</a>        	
-        </td>
-        <td>
+</a>
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Top Langs" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/top-langs/?username=codeboy-zuo&layout=compact">
-</a>        
-        </td>
-    </tr>
-</table>
+</a>
 
 ### Top Repositories
-
 <a href="https://github.com/codeboy-zuo/codeboy-zuo.github.io">
 	<img align="center" alt="blog card" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/api/pin/?username=codeboy-zuo&repo=codeboy-zuo.github.io">
 </a>
@@ -83,4 +77,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
