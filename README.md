@@ -10,7 +10,7 @@
 
 <!-- 一个动态图片 -->
 
-<div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif"/></div>
+<div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pig.gif"/></div>
 
 <br>
 
