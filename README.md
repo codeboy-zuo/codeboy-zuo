@@ -3,8 +3,8 @@
 <!-- 动态打字效果 -->
 
 <h2 align="center">
-    <a href="ldfbg.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=Harder you work,luckier you get;console.log(%22Hello,%20world%22)">
+    <a href="https://ldfbg.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=越努力，越幸运;console.log(%22Hello,%20world%22)">
     </a>
 </h2>
 
