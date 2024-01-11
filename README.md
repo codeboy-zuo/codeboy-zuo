@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=越努力，越幸运;console.log(%22Hello,%20world%22)">
     </a>
 </h2>
-
 <!-- 一个动态图片 -->
 
 <div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pig.gif"/></div>
@@ -21,10 +20,10 @@
     <a href="https://space.bilibili.com/476669856"><img src="https://img.shields.io/badge/Bilibili-哔站-green"></a>&emsp;
     <a href="https://blog.csdn.net/qq_51436687"><img src="https://img.shields.io/badge/CSDN-博客-yellow"></a>&emsp;
 </div>
-
 <!-- 关于我 -->
+***
 
-## ABOUT ME
+### 关于我
 
 欢迎大家访问我的主页，虽然目前只是一个菜鸟🧐，<del>估计以后也是</del>。huhu~~
 
@@ -43,6 +42,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-pink?style=flat-square&logo=Docker)
 
 <!-- Github 数据统计 -->
+***
 
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
