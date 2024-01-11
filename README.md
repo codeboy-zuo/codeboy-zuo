@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif">
-_________
+<img style="float:center" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif">
+
+_____
 
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
@@ -9,9 +10,8 @@ _________
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Top Langs" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/top-langs/?username=codeboy-zuo&layout=compact">
 </a>
-_______
 
-
+_____
 
 <!--
 **codeboy-zuo/codeboy-zuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
