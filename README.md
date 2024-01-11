@@ -9,7 +9,7 @@
 </h2>
 <!-- 一个动态图片 -->
 
-<div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/1.png"/></div>
+<div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/hacker.gif"/></div>
 
 <br>
 
@@ -21,8 +21,6 @@
     <a href="https://blog.csdn.net/qq_51436687"><img src="https://img.shields.io/badge/CSDN-博客-yellow"></a>&emsp;
 </div>
 <!-- 关于我 -->
-***
-
 ### 关于我
 
 欢迎大家访问我的主页，虽然目前只是一个菜鸟🧐，<del>估计以后也是</del>。huhu~~
