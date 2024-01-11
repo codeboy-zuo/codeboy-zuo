@@ -12,20 +12,19 @@
 
 <div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif"/></div>
 
-</br>
+<br>
 
 <!-- 一些资料 -->
 
 <div align="center">
-    <a href="ldfbg.com"><img sre="https://img.shields.io/badge/blog-个人博客-blue"></a>&emsp;
-    <a href="https://space.bilibili.com/476669856"><img sre="https://img.shields.io/badge/Bilibili-哔站-green"></a>&emsp;
-    <a href="https://blog.csdn.net/qq_51436687"><img sre="https://img.shields.io/badge/CSDN-博客-yellow"></a>&emsp;
+    <a href="ldfbg.com"><img src="https://img.shields.io/badge/blog-个人博客-blue"></a>&emsp;
+    <a href="https://space.bilibili.com/476669856"><img src="https://img.shields.io/badge/Bilibili-哔站-green"></a>&emsp;
+    <a href="https://blog.csdn.net/qq_51436687"><img src="https://img.shields.io/badge/CSDN-博客-yellow"></a>&emsp;
 </div>
 
-***
 <!-- 关于我 -->
 
-### 关于我
+## ABOUT ME
 
 欢迎大家访问我的主页，虽然目前只是一个菜鸟🧐，<del>估计以后也是</del>。huhu~~
 
@@ -41,9 +40,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-seagreen?style=flat-square&logo=javascript&&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-SkyBlue?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-pink?style=flat-square&logo=Docker)
 
 <!-- Github 数据统计 -->
-***
 
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
