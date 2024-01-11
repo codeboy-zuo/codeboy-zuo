@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<img align="center" src="#img/pc.gif">
+<img align="center" src=>
+
+<a href="https:github.com/codeoby-zuo">
+	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
+</a>
+<a href="https:github.com/codeoby-zuo">
+	<img align="center" alt="Top Langs" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/top-langs/?username=codeboy-zuo&layout=compact">
+</a>
+
+
+
 <!--
 **codeboy-zuo/codeboy-zuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
