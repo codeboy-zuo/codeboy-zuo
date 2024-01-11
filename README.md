@@ -30,6 +30,8 @@
 
 我相信，每一次的学习，即使是别人的成果，最后能够复现变成自己的东西，也是一次成长💪
 
+接下来：好好吃饭🍗 好好睡觉💤 敲敲代码💻 挣点小钱💰 谈谈恋爱💏
+
 正在学习的技能✨：
 
 ![C](https://img.shields.io/badge/-C-yellow?style=flat-square&logo=c&logoColor=white)
