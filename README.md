@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="float:center" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif">
+<img src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif"/>
 
 _____
 
