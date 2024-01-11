@@ -4,9 +4,10 @@
 
 <h2 align="center">
     <a href="ldfbg.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=越努力，越幸运;console.log(%22Hello,%20world%22)">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=Harder you work,luckier you get;console.log(%22Hello,%20world%22)">
     </a>
 </h2>
+
 <!-- 一个动态图片 -->
 
 <div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/hacker.gif"/></div>
@@ -64,10 +65,10 @@
 ### Top Repositories
 
 <a href="https://github.com/codeboy-zuo/codeboy-zuo.github.io">
-	<img align="center" alt="blog card" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/api/pin/?username=codeboy-zuo&repo=codeboy-zuo.github.io">
+	<img align="center" alt="blog card" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/pin/?username=codeboy-zuo&repo=codeboy-zuo.github.io">
 </a>
 <a href="https://github.com/codeboy-zuo/codeboy-zuo">
-	<img align="center" alt="About Me" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/api/pin/?username=codeboy-zuo&repo=codeboy-zuo">
+	<img align="center" alt="About Me" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/pin/?username=codeboy-zuo&repo=codeboy-zuo">
 </a>
 
 <!--

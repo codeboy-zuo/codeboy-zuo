@@ -4,7 +4,7 @@
 
 <h2 align="center">
     <a href="ldfbg.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=The harder you work, the luckier you get.;console.log(%22Hello,%20world%22)">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=Harder you work,luckier you get;console.log(%22Hello,%20world%22)">
     </a>
 </h2>
 
@@ -49,19 +49,27 @@ Skills being acquired✨：
 
 ***
 
+<table>
+    <tr>
+        <td>
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
-</a>
+</a>        	
+        </td>
+        <td>
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Top Langs" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/top-langs/?username=codeboy-zuo&layout=compact">
-</a>
+</a>        
+        </td>
+    </tr>
+</table>
 
 ### Top Repositories
 <a href="https://github.com/codeboy-zuo/codeboy-zuo.github.io">
-	<img align="center" alt="blog card" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/api/pin/?username=codeboy-zuo&repo=codeboy-zuo.github.io">
+	<img align="center" alt="blog card" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/pin/?username=codeboy-zuo&repo=codeboy-zuo.github.io">
 </a>
 <a href="https://github.com/codeboy-zuo/codeboy-zuo">
-	<img align="center" alt="About Me" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/api/pin/?username=codeboy-zuo&repo=codeboy-zuo">
+	<img align="center" alt="About Me" src="https://github-readme-stats-codeboy-zuo.vercel.app/api/pin/?username=codeboy-zuo&repo=codeboy-zuo">
 </a>
 
 <!--
