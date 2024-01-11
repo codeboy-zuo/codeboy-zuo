@@ -9,7 +9,7 @@
 </h2>
 <!-- 一个动态图片 -->
 
-<div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pig.gif"/></div>
+<div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/1.png"/></div>
 
 <br>
 
