@@ -12,6 +12,8 @@
 
 <div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif"/></div>
 
+</br>
+
 <!-- 一些资料 -->
 
 <div align="center">
@@ -20,15 +22,19 @@
     <a href="https://blog.csdn.net/qq_51436687"><img sre="https://img.shields.io/badge/CSDN-博客-yellow"></a>&emsp;
 </div>
 
+***
 <!-- 关于我 -->
 
 ### 关于我
 
 欢迎大家访问我的主页，虽然目前只是一个菜鸟🧐，<del>估计以后也是</del>。huhu~~
+
 但是敲代码真的很快乐，GitHub是一个神奇的地方，大佬云集，让人向往🙌
+
 我相信，每一次的学习，即使是别人的成果，最后能够复现变成自己的东西，也是一次成长💪
 
 正在学习的技能✨：
+
 ![C](https://img.shields.io/badge/-C-yellow?style=flat-square&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -37,6 +43,7 @@
 ![Python](https://img.shields.io/badge/-Python-SkyBlue?style=flat-square&logo=Python)
 
 <!-- Github 数据统计 -->
+***
 
 <a href="https:github.com/codeoby-zuo">
 	<img align="center" alt="Github Stats" src="https://github-readme-stats-codeboy-zuo.vercel.app/api?username=codeboy-zuo&show_icons=true&theme=cobalt&include_all_commits=true">
