@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-<img src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif"/>
+<h2 align="center">
+    <a href="ldfbg.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=43B82E&lines=Hello+world">
+    </a>
+</h2>
+
+___
+
+
+
+<div align="center"><img order-radius="100px" src="https://github.com/codeboy-zuo/codeboy-zuo/raw/main/img/pc.gif"/></div>
 
 _____
 
