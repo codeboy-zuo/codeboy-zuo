@@ -17,7 +17,7 @@
 <!-- 一些资料 -->
 
 <div align="center">
-    <a href="ldfbg.com"><img src="https://img.shields.io/badge/blog-个人博客-blue"></a>&emsp;
+    <a href="https://ldfbg.com"><img src="https://img.shields.io/badge/blog-个人博客-blue"></a>&emsp;
     <a href="https://space.bilibili.com/476669856"><img src="https://img.shields.io/badge/Bilibili-哔站-green"></a>&emsp;
     <a href="https://blog.csdn.net/qq_51436687"><img src="https://img.shields.io/badge/CSDN-博客-yellow"></a>&emsp;
 </div>
